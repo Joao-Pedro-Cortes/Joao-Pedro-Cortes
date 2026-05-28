@@ -24,7 +24,7 @@ Alongside shipping my own projects, I create content sharing the behind-the-scen
 
 ---
 
-## 🧠 What I do
+## What I do
 
 -  SaaS & scalable systems
 -  Performance optimization
