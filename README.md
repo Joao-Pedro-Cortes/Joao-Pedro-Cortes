@@ -1,6 +1,6 @@
 # Hello World!!! 👋, I'm João Pedro Cortes da Silva Sedenho
 
-🚀 Junior Fullstack Developer  
+Junior Fullstack Developer  
 🇧🇷 Brazil
 
 I build and scale profitable digital products. Software engineer by trade and entrepreneur by heart, I’m focused on creating high-performance SaaS platforms and market-validated solutions.
@@ -9,7 +9,7 @@ Alongside shipping my own projects, I create content sharing the behind-the-scen
 
 ---
 
-## 🌐 Where to find me
+##  Where to find me
 
 <p align="left">
   <a href="https://github.com/Joao-Pedro-Cortes">
@@ -30,18 +30,18 @@ Alongside shipping my own projects, I create content sharing the behind-the-scen
 
 ## 🧠 What I do
 
-- 🏗️ SaaS & scalable systems
-- ⚡ Performance optimization
-- 🧩 Clean architecture & system design
-- 🔐 Secure APIs & authentication
-- 💳 Business logic & integrations
-- 🤖 Automation
-- 📊 Dashboards & analytics
-- 🎓 Continuous learning & development
+-  SaaS & scalable systems
+-  Performance optimization
+-  Clean architecture & system design
+-  Secure APIs & authentication
+-  Business logic & integrations
+-  Automation
+-  Dashboards & analytics
+-  Continuous learning & development
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -86,12 +86,12 @@ Alongside shipping my own projects, I create content sharing the behind-the-scen
 ---
 
 
-## 🚀 Philosophy
+##  Philosophy
 
 > *"I strongly believe that great software goes beyond simply working. I care deeply about clean code, maintainability, readability, and building solutions that are scalable and easy to evolve over time."*
 
 ---
 
-⭐ If you like my work, consider starring a repository
+ If you like my work, consider starring a repository
 
-🤝 Always open to collaborations, partnerships, and cool ideas
+ Always open to collaborations, partnerships, and cool ideas
