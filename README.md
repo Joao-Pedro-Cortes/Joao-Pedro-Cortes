@@ -12,10 +12,6 @@ Alongside shipping my own projects, I create content sharing the behind-the-scen
 ##  Where to find me
 
 <p align="left">
-  <a href="https://github.com/Joao-Pedro-Cortes">
-    <img src="https://img.shields.io/badge/GitHub-Joao--Pedro--Cortes-181717?style=for-the-badge&logo=github" />
-  </a>
-
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-cortes-da-silva-sedenho-6a1361365/?locale=pt-BR">
     <img src="https://img.shields.io/badge/LinkedIn-João%20Pedro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
